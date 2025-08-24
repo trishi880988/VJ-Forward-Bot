@@ -39,7 +39,7 @@ class  Script(object):
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/Ytbr_67)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Kɪɴɢ VJ 👑](https://t.me/Ytbr_67)
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [gAURAV rAJpUT 👑](https://t.me/Ytbr_67)
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Gaurav RaJpuT](https://t.me/Ytbr_67)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
